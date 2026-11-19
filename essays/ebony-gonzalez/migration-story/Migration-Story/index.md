@@ -45,10 +45,10 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-A butterfly’s journey first begins in the form of a caterpillar searching for food and
+A butterfly's journey first begins in the form of a caterpillar searching for food and
 knowledge to stay alive. Preparing for the next stage of its life. My journey began on the tribal
 reservation of the Ysleta Del Sur Pueblo tribe, in the town of El Paso Texas. There I lived with
-my husband and two small children on a low income salary. El Paso was a town that didn’t pay
+my husband and two small children on a low income salary. El Paso was a town that didn't pay
 very well, I had to explore other options to make ends meet and to create better opportunity
 for my children. For this capitalistic society has a brutal economy. (Matthew Desmond) In this
 western democracy, things are simple like they used to be. (Chief Lyons, pg.59) Just like the
@@ -65,7 +65,7 @@ loved ones to be with him, I too longed for mine.( Bulosan, pg.13) But I must ta
 memories with me onward. Like the caterpillar, I must do this journey alone.
 Arriving in Albuquerque, with some clothes, my oldest son, and my oldest daughter, I
 sought to give this new area a try. And no matter how hard I tried, I still became homesick. But
-this land was foreign to me. It wasn’t warm like the winds of El Paso, or the warm arms of my
+this land was foreign to me. It wasn't warm like the winds of El Paso, or the warm arms of my
 relatives. I was alone. But like the caterpillar I was determined to adapt and thrive. Like the
 caterpillar I was in my cocooning stage awaiting the chance to spread my wings and learn how
 to fly.
@@ -73,7 +73,7 @@ It took a little bit of time, but I climbed out of my cocoon. I fell in love wit
 its diversity. I made friends at work and had a good environment where together we created a
 Native Hub, a place where we can connect to our cultures and our People together. (Ramirez,
 pg.1) Now my wings are stretched out, and I am soaring through the wind. Now I get to see my
-four little caterpillars grow and go through their own journ
+four little caterpillars grow and go through their own journeys.
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
