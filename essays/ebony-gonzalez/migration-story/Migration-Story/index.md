@@ -45,7 +45,17 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+A butterfly’s journey first begins in the form of a caterpillar searching for food and
+knowledge to stay alive. Preparing for the next stage of its life. My journey began on the tribal
+reservation of the Ysleta Del Sur Pueblo tribe, in the town of El Paso Texas. There I lived with
+my husband and two small children on a low income salary. El Paso was a town that didn’t pay
+very well, I had to explore other options to make ends meet and to create better opportunity
+for my children. For this capitalistic society has a brutal economy. (Matthew Desmond) In this
+western democracy, things are simple like they used to be. (Chief Lyons, pg.59) Just like the
+caterpillar, striving to survive. I sought better employment elsewhere, even exploring my
+options beyond the Texas boundary. A certain light shined on the northern boundary of Texas.
+This light shined from another state with better opportunity and pay. The light shined upon
+Albuquerque New Mexico. 
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
