@@ -56,6 +56,24 @@ caterpillar, striving to survive. I sought better employment elsewhere, even exp
 options beyond the Texas boundary. A certain light shined on the northern boundary of Texas.
 This light shined from another state with better opportunity and pay. The light shined upon
 Albuquerque New Mexico. 
+I accepted the job with a slight sigh of relief. I packed my clothes, my truck, and my kids.
+Leaving behind my now, ex-husband and our home. As I drove away leaving the sights of my
+reservation in the review mirror, I remembered all the people I was leaving behind. All my
+family members, all of my friends, all of the memories I had when I was there. I grew up on that
+reservation. I grew up with those friends, and my cousins. Like Carlos Bulosan, wished for his
+loved ones to be with him, I too longed for mine.( Bulosan, pg.13) But I must take their
+memories with me onward. Like the caterpillar, I must do this journey alone.
+Arriving in Albuquerque, with some clothes, my oldest son, and my oldest daughter, I
+sought to give this new area a try. And no matter how hard I tried, I still became homesick. But
+this land was foreign to me. It wasn’t warm like the winds of El Paso, or the warm arms of my
+relatives. I was alone. But like the caterpillar I was determined to adapt and thrive. Like the
+caterpillar I was in my cocooning stage awaiting the chance to spread my wings and learn how
+to fly.
+It took a little bit of time, but I climbed out of my cocoon. I fell in love with the city and
+its diversity. I made friends at work and had a good environment where together we created a
+Native Hub, a place where we can connect to our cultures and our People together. (Ramirez,
+pg.1) Now my wings are stretched out, and I am soaring through the wind. Now I get to see my
+four little caterpillars grow and go through their own journ
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
